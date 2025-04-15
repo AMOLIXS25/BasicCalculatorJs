@@ -13,6 +13,11 @@ const multiply = (numberOne, numberTwo) => {
 }
 
 
+const divide = (numberOne, numberTwo) => {
+    return numberOne / numberTwo;
+}
+
+
 const main = () => {
 
 }

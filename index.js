@@ -8,6 +8,11 @@ const substract = (numberOne, numberTwo) => {
 }
 
 
+const multiply = (numberOne, numberTwo) => {
+    return numberOne * numberTwo;
+}
+
+
 const main = () => {
 
 }

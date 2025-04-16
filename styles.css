@@ -107,6 +107,14 @@ main {
     background-color: var(--number-buttons-bg-hover-color);
 }
 
+.buttons-container button.ac {
+    background-color: var(--number-buttons-bg-color) !important
+}
+
+.buttons-container button.ac:hover {
+    background-color: var(--number-buttons-bg-hover-color) !important;
+}
+
 .buttons-container button.operator {
     background-color: var(--operator-buttons-bg-color);
 }

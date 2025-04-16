@@ -83,8 +83,9 @@ main {
 .display {
     outline: none;
     text-align: right;
-    padding: 1em 0.5em 0 0;
+    padding: 1em 0.5em 0.2em 0;
     font-size: var(--display-font-size);
+    height: 100px;
 }
 
 /*
